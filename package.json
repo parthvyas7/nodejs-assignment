@@ -7,8 +7,8 @@
     "dev": "nodemon ./src/index"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Parth Vyas",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "bcryptjs": "^2.4.3",
